@@ -1,0 +1,45 @@
+body{
+    background-color: hsl(0, 0%, 9%);
+    font-family: "Inter";
+}
+
+.social-link-profile{
+    width: 320px;
+    padding: 15px;
+    margin: 20px auto;
+    border-radius:  10px;
+    text-align: center;
+    background-color: hsl(0, 1%, 14%);
+    color: white;
+}
+
+img{
+    width: 100px;
+    border-radius:  50px;
+    display: block;
+    margin: 10px auto;
+}
+
+h5{
+  color: hsl(75, 94%, 57%);
+  margin-top: -10px;
+}
+
+a{
+    display: block;
+    margin: 15px auto;
+    width: 260px;
+    padding: 13px;
+    background-color: hsl(0, 1%, 18%);
+    color: rgb(230, 229, 229);
+    text-decoration: none;
+    border-radius: 10px;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+a:hover{
+    background-color: hsl(75, 94%, 57%);
+    color: black;
+}
+
