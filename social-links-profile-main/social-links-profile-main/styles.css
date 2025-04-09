@@ -1,0 +1,61 @@
+body{
+    background-color: rgb(26, 25, 25);
+    font-family: "Inter";
+}
+
+
+.social-links-profile{
+    max-width: 315px;
+    text-align: center;
+    margin: 25px auto;
+    padding: 12px;
+    background-color: rgb(34, 34, 34);
+    border-radius: 10px;
+}
+
+img{
+    width: 85px;
+    display: block;
+    margin: 15px auto;
+    border-radius: 50px;
+}
+
+
+a{
+    width: 245px;
+    margin: 15px auto;
+    padding: 10px;
+    background-color: hsl(0, 0%, 20%);
+    text-decoration: none;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    display: block;
+    font-size: 14px;
+    font-weight: 500;
+
+}
+
+a:hover{
+    background-color: hsl(75, 94%, 57%);
+    color: rgb(26, 25, 25);
+}
+
+h2{
+    color: white;
+}
+
+.country{
+    color: hsl(75, 94%, 57%);
+    margin-top: -14px;
+    font-size: 14px;
+}
+
+.description{
+    color: white;
+    margin-top: 20px;
+}
+
+.links{
+    margin-top: 20px;
+}
