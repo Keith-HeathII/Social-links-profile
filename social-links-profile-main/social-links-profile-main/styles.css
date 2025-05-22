@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(30, 30, 30);
+}
+
+.social-profile{
+    width: 290px;
+    background-color: rgb(35, 35, 35);
+    text-align: center;
+    padding: 15px;
+    margin: 50px auto;
+    border-radius: 5px;
+    font-family: 'Inter';
+    color: white;
+    
+}
+
+  img{
+    width: 80px;
+    margin: 15px auto;
+    display: block;
+    border-radius: 50px;
+  }
+
+  .bold{
+    font-weight: bold;
+    margin-top: -14px;
+    font-size: 14px;
+    color: hsl(75, 94%, 57%)
+  }
+
+  .spacing{
+    margin-top: 20px;
+    font-size: 14px;
+  }
+
+.social-links{
+    margin-top: 15px;
+} 
+
+a{
+    text-decoration: none;
+    width: 250px;
+    background-color: rgb(52, 52, 52);
+    display: block;
+    margin: 12px auto;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-left: 4px;
+    padding-right: 4px;
+    color: white;
+    font-size: 13px;
+    border-radius: 6px;
+    font-weight: 700;
+}
+
+a:hover{
+    color: black;
+    background-color: hsl(75, 94%, 57%);
+}
+
